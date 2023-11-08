@@ -1,0 +1,71 @@
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Starting Game #1...
+Starting Pile: 940
+Computer goes 1st!
+Computer removes 429 marbles. There are 511 marbles remaining.
+Lebron James removes 1 marbles. There are 510 marbles remaining.
+Computer removes 255 marbles. There are 255 marbles remaining.
+Lebron James removes 1 marbles. There are 254 marbles remaining.
+Computer removes 127 marbles. There are 127 marbles remaining.
+Lebron James removes 1 marbles. There are 126 marbles remaining.
+Computer removes 63 marbles. There are 63 marbles remaining.
+Lebron James removes 1 marbles. There are 62 marbles remaining.
+Computer removes 31 marbles. There are 31 marbles remaining.
+Lebron James removes 1 marbles. There are 30 marbles remaining.
+Computer removes 15 marbles. There are 15 marbles remaining.
+Lebron James removes 1 marbles. There are 14 marbles remaining.
+Computer removes 7 marbles. There are 7 marbles remaining.
+Lebron James removes 1 marbles. There are 6 marbles remaining.
+Computer removes 3 marbles. There are 3 marbles remaining.
+Lebron James removes 1 marbles. There are 2 marbles remaining.
+Computer removes 1 marbles. There are 1 marbles remaining.
+Lebron James takes the last marble & lose! Computer wins! Good Game!
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Starting Game #1...
+Starting Pile: 130
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Starting Game #1...
+Starting Pile: 228
+Your Dad goes 1st!
+Your Dad quits the game...
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Starting Game #1...
+Starting Pile: 149
+Computer goes 1st!
+Computer removes 36 marbles. There are 113 marbles remaining.
+Lebron James removes 1 marbles. There are 112 marbles remaining.
+Computer removes 35 marbles. There are 77 marbles remaining.
+Lebron James quits the game...
+------------------------------------------
+Starting Game #2...
+Starting Pile: 280
+Lebron James goes 1st!
+Lebron James removes 1 marbles. There are 279 marbles remaining.
+John Cena removes 1 marbles. There are 278 marbles remaining.
+Lebron James removes 1 marbles. There are 277 marbles remaining.
+John Cena quits the game...
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Starting Game #1...
+Starting Pile: 750
+Lebron James goes 1st!
+Lebron James removes 1 marbles. There are 749 marbles remaining.
+Some Dude removes 1 marbles. There are 748 marbles remaining.
+Lebron James removes 1 marbles. There are 747 marbles remaining.
+Some Dude quits the game...
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
+Welcome to Group 2's Game Of Nim!
+------------------------------------------
